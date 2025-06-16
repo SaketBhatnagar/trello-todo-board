@@ -2,6 +2,11 @@
 
 A modern, responsive Todo board application built with Next.js, TypeScript, and Tailwind CSS. This project implements a Trello-style Kanban board for managing tasks with drag-and-drop functionality.
 
+<img width="1512" alt="Screenshot 1404-03-26 at 09 03 24" src="https://github.com/user-attachments/assets/bccafbf1-45a6-4696-8d24-77846da46c7d" />
+
+[Demo Link](https://trello-todo-board.vercel.app/)
+
+
 ## Features
 
 - 📱 Responsive design that works on both desktop and mobile
